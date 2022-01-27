@@ -1,1 +1,5 @@
-echo hello word
+hello word
+
+# všecho je skvělé ... #
+
+
